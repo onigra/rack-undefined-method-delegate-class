@@ -1,5 +1,7 @@
 # Debug Rack::Session::Cookie:Class
 
+This is test repository for https://github.com/rack/rack/pull/1610
+
 `Rack::Session::Cookie` requires `require 'delegate'`
 
 ```
